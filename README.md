@@ -49,7 +49,13 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots of cluster results, revenue predictions, etc._
+![image](https://github.com/user-attachments/assets/0e2a71de-4d9a-488a-9cb7-e8da2302f2a4)
+![image](https://github.com/user-attachments/assets/61465452-7a85-47fa-a47c-ff43a2cd3b1d)
+![image](https://github.com/user-attachments/assets/6487181b-f111-4ca4-bc80-04ccb8765af8)
+![image](https://github.com/user-attachments/assets/a6698da3-bcce-4f7a-8390-9286d160c68b)
+![image](https://github.com/user-attachments/assets/c76c1847-92bb-4562-8bee-e18b9c3a1574)
+![image](https://github.com/user-attachments/assets/27b559de-34a2-45af-8a8a-27f87832dc9e)
+
 
 ---
 
