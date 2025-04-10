@@ -1,0 +1,11 @@
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+scikit-learn==1.5.0
+keras==3.3.3
+tensorflow==2.16.1
+matplotlib==3.8.4
+openpyxl==3.1.2
+minisom==2.3.0
+tslearn==0.6.3
